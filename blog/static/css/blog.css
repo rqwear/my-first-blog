@@ -9,7 +9,7 @@ background: url(https://webfon.top/wp-content/uploads/2017/10/tools.png) left to
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #FFD700;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -20,6 +20,20 @@ background: url(https://webfon.top/wp-content/uploads/2017/10/tools.png) left to
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
+}
+
+nav {
+    font-family: 'Lobster', cursive;
+    font-size: 40;
+    text-align: center;
+    background-color: #6441a5;
+    border: 1px solid #000;
+    width: 100%;
+}
+
+nav a {
+    color: #ffffff;
+    margin-left: 5%;
 }
 
 .date {
