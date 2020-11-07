@@ -4,6 +4,10 @@
     padding: 20px 20px 20px 40px;
 }
 
+body {
+background: url(https://webfon.top/wp-content/uploads/2017/10/tools.png) left top repeat;
+}
+
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
     font-size: 36pt;
@@ -19,7 +23,8 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #828282;
+    color: #b0b0b0;
+    background-color: #6441a5;
 }
 
 .save {
@@ -28,6 +33,7 @@ h1, h2, h3, h4 {
 
 .post-form textarea, .post-form input {
     width: 100%;
+    background-color: #6441a5;
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
@@ -43,4 +49,8 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+.textback {
+    background-color: #ffffff;
 }
