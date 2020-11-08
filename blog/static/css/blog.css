@@ -34,6 +34,7 @@ nav {
 nav a {
     color: #ffffff;
     margin-left: 5%;
+    font-size: 40;
 }
 
 .date {
@@ -66,4 +67,30 @@ nav a {
 
 .textback {
     background-color: #ffffff;
+}
+
+.menu {
+    position: fixed; /* Фиксированное положение */
+    right: 10px; /* Расстояние от правого края окна браузера */
+    top: 20%; /* Расстояние сверху */
+    padding: 10px; /* Поля вокруг текста */
+    background: #ffe; /* Цвет фона */
+    border: 1px solid #333; /* Параметры рамки */
+}
+
+.about {
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+
+}
+.helplist {
+    background-color: #ffffff;
+    border: 3px solid #333;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26pt;
 }
